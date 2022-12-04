@@ -7,3 +7,6 @@ Virtualization is the creation of a virtual -- rather than actual -- version of 
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.techtarget.com/searchitoperations/definition/virtualization'>What is Virtualization? and its types?</BadgeLink>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://opensource.com/resources/virtualization'>What is Hypervisor and VM?</BadgeLink>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.atlassian.com/microservices/cloud-computing/containers-vs-vms'>Containers vs VM</BadgeLink>
+<BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.youtube.com/watch?v=PpcdufiQnF8'>Proxmox Virtual Environment (Languague: PT-BR)</BadgeLink>
+
+
